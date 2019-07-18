@@ -1,5 +1,5 @@
 # VoxelPlay
-(C) 2018 Ramiro Oliva (Kronnect)
+(C) 2018-2019 Ramiro Oliva (Kronnect)
 
 Voxel Play is commercial software. Read the following rules to understand the purpose of this repository.
 
